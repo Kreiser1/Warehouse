@@ -1,4 +1,4 @@
-print('[Сервер]')
+print('[Server]')
 
 y = 0
 
